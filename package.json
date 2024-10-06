@@ -1,5 +1,5 @@
 {
-  "name": "ron-swanson-quotes",
+  "name": "quotes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
